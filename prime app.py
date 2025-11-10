@@ -2,7 +2,7 @@ import tkinter as tk
 from tkinter import ttk
 from tkinter import scrolledtext # For the scrollable results box
 
-# --- Your modified logic ---
+
 def find_primes(start, end):
     """
     Finds all prime numbers in a given range.
